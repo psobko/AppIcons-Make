@@ -1,3 +1,4 @@
-#AppIcons-Make
+
+AppIcons-Make
 
 Automate iOS icon creation
